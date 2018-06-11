@@ -41,8 +41,6 @@ namespace ebayListing
                 Console.WriteLine(ex.ToString());
             }
 
-            Console.ReadLine();
-
         }
     }
 }
